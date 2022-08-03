@@ -1,0 +1,23 @@
+{
+  "name": "mytee",
+  "version": "1.0.0",
+  "description": "An e-commerse site to sell t-shirts, with the feature of customizing your tshirt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuvaBernard/mytee.git"
+  },
+  "author": "Danial Dhinesh and Joshuva Bernard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuvaBernard/mytee/issues"
+  },
+  "homepage": "https://github.com/joshuvaBernard/mytee#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
